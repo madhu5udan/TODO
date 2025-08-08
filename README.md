@@ -16,11 +16,12 @@ npm run dev
 
 # Home
 
-![Home](src\img\Home.png)
+![Home](src/img/Home.png)
 
 # Completed tasks
 
-![Completed](src\img\completed.png)
+![Completed](src/img/completed.png)
 
 # Edit Task
-![Edit](src\img\edit.png)
+
+![Edit](src/img/edit.png)
